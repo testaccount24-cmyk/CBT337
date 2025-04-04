@@ -1,0 +1,7 @@
+2025-04-04 08:07:56.379373 - Received CBT.V508.FILE337.PDS from FILE337.XMI 
+2025-04-04 08:07:56.380265 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE337.PDS, moved to PDS/$$$#DATE
+2025-04-04 08:07:56.380414 - Found $INFO.txt (text/plain) in CBT.V508.FILE337.PDS, moved to PDS/$INFO
+2025-04-04 08:07:56.380561 - Found @FILE337.txt (text/plain) in CBT.V508.FILE337.PDS, moved to PDS/@FILE337
+2025-04-04 08:07:56.380702 - Found JOBM.jcl (text/plain) in CBT.V508.FILE337.PDS, moved to PDS/JOBM
+2025-04-04 08:07:56.380829 - Found PLIM.jcl (text/plain) in CBT.V508.FILE337.PDS, moved to PDS/PLIM
+2025-04-04 08:07:56.380956 - Found TEXT.txt (text/plain) in CBT.V508.FILE337.PDS, moved to PDS/TEXT
